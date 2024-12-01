@@ -1,3 +1,5 @@
 streamlit
 PyPDF2
+pytesseract
+Pillow
 fpdf
